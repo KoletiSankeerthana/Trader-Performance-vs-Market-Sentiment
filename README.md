@@ -7,11 +7,12 @@ This project analyzes how market sentiment (Fear vs Greed) influences trader beh
 
 ## 📁 Folder Structure
 
+```
 Primetrade/
 ├── primetrade.ipynb   # Data preparation, analysis, insights
 ├── app.py             # Streamlit dashboard
 └── README.md          # Documentation
-
+```
 ---
 
 ##  Data Preparation (Part A)
